@@ -113,3 +113,6 @@ Codingan untuk membuat Form pada HTML
 
 
 
+![input](https://github.com/ikmalriyan21/Lab3Web/blob/a2f51014b9728ec7bba18c8ff3bf05f5a2643ba5/Gambar/codingan%20membuat%20form%202.png)
+
+Hasil Output membuat Form pada HTML
