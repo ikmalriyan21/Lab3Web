@@ -39,3 +39,11 @@ Hasil Output Unordered List
 ![input](https://github.com/ikmalriyan21/Lab3Web/blob/2e888c30b2dce445ed921cfa1e5f4473cdc5328b/Gambar/output%20unordered%20list.png)
 
 Codingan untuk membuat Description List
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab3Web/blob/d2987b8d379c796fabbce53b370c071f960ac6e9/Gambar/codingan%20description%20list.png)
+
+Hasil Output Description List
