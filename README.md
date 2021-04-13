@@ -131,3 +131,11 @@ Codingan menambahkan Style pada Form
 
 
 
+![input](https://github.com/ikmalriyan21/Lab3Web/blob/5c34f1c1d70cce62c2c467ddde62e76a74efddf8/Gambar/codingan%20menambahkan%20style%20pada%20form.png)
+
+Hasil Output menambahkan Style paada Form
+
+
+
+
+
