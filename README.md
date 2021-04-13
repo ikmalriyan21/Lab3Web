@@ -139,3 +139,4 @@ Hasil Output menambahkan Style paada Form
 
 
 
+![input](https://github.com/ikmalriyan21/Lab3Web/blob/60ccae47dd890ef82e7cd897f92ef423705413f0/Gambar/Output%20menambahkan%20Style%20pada%20Form.png)
