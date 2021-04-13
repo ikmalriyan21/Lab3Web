@@ -65,14 +65,6 @@ Codingan Untuk membuat tabel
 
 ![input](https://github.com/ikmalriyan21/Lab3Web/blob/2f0140f667eb7fc532a30871d71a193989cd0568/Gambar/codingan%20membuat%20table.png)
 
-Hasil Output membuat table
-
-
-
-
-
-![input](https://github.com/ikmalriyan21/Lab3Web/blob/59a5846342f98c2792e9e9ce678120916edc54f2/Gambar/output%20membuat%20table.png)
-
 Selanjutnya mengatur Margin dan Padding pada table
 
 Codingan dengan mengatur Margin dan Padding
@@ -82,5 +74,13 @@ Codingan dengan mengatur Margin dan Padding
 
 
 ![input](https://github.com/ikmalriyan21/Lab3Web/blob/6528e170c576f99b1f50d48e69a700aa9de5c91d/Gambar/codingan%20mengatur%20margin%20dan%20padding.png)
+
+Hasil Output membuat table
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab3Web/blob/59a5846342f98c2792e9e9ce678120916edc54f2/Gambar/output%20membuat%20table.png)
 
 Codingan menggabungkan Sel Data
