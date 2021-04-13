@@ -5,7 +5,7 @@
 2. Microsoft Edge
 
 # Langkah-Langkah Praktikum
-# 1 Membuat List pada HTML
+# 1. Membuat List pada HTML
 
 Codingan untuk membuat Ordered List
 
@@ -55,9 +55,18 @@ Hasil Output Description List
 
 ![input](https://github.com/ikmalriyan21/Lab3Web/blob/3c43cc4859cdc957a8fbc2b6ef3c5677367e84ba/Gambar/output%20description%20list.png)
 
-# 2 Membuat tabel pada HTML
+# 2. Membuat tabel pada HTML
 
 Codingan Untuk membuat tabel
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab3Web/blob/2f0140f667eb7fc532a30871d71a193989cd0568/Gambar/codingan%20membuat%20table.png)
+
+Selanjutnya mengatur Margin dan Padding pada table
+Codingan dengan menambahkan Margin dan Padding
 
 
 
