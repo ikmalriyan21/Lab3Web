@@ -84,3 +84,16 @@ Hasil Output membuat table
 ![input](https://github.com/ikmalriyan21/Lab3Web/blob/59a5846342f98c2792e9e9ce678120916edc54f2/Gambar/output%20membuat%20table.png)
 
 Codingan menggabungkan Sel Data
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab3Web/blob/ceda73c68e9ef7d1ff64b07b45a7f62325123be3/Gambar/codingan%20menggabungkan%20sel%20data.png)
+
+Hasil Ouput menggabungkan Sel Data
+
+
+
+
+
