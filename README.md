@@ -6,7 +6,7 @@
 
 # Langkah-Langkah Praktikum
 
-Membuat Ordered List
+Codingan untuk membuat Ordered List
 
 
 
@@ -22,4 +22,12 @@ Hasil Output Ordered List
 
 ![input](https://github.com/ikmalriyan21/Lab3Web/blob/5e38bddcf1dfbe2c1705e2da8ef6e532111b3437/Gambar/output%20ordered%20list.png)
 
-Membuat Unordered List
+Codingan untuk membuat Unordered List
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab3Web/blob/dfa76a9e9e2ffd22244b272bc181af6f1551860b/Gambar/codingan%20unordered%20list.png)
+
+Hasil Output Unordered List
